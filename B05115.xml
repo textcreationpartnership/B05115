@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A rejoynder to the VVhiggish poem upon the Tory-prentices-feast at Merchant-Taylors-Hall.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05115</idno><idno type="EEBO-CITATION">99889658</idno>
+  <idno type="VID">182404</idno>
+  <idno type="EEBO-PROQUEST">2240920641</idno>
+  
+            <idno type="OCLC"> 11880790</idno>
+            <idno type="STC">Wing R771</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.161.f.2[15]</idno>
+            <idno type="STC">ESTC R3035</idno>
+            <idno type="PROQUEST">ocm99889658</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B05115)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182404)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A3:5[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A rejoynder to the VVhiggish poem upon the Tory-prentices-feast at Merchant-Taylors-Hall.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>printed in the year 1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "VVell! Tory poets answers come at last ..."</note>
+                  <note>A Whig reply to: An answer to the Whiggish poem on the loyal apprentices feast.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Answer to the Whiggish poem on the loyal apprentices feast.</term>
+               <term type="geographic_name">Political satire, English --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1660-1688 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182404:1"/>
+            <head>A REJOYNDER TO THE VVHIGGISH POEM UPON THE <hi>Tory-Prentices-Feast</hi> AT <hi>MERCHANT-TAYLORS-HALL.</hi>
+            </head>
+            <lg>
+               <l>WELL! Tory Poets answers come at last,</l>
+               <l>The Tory Sots never write Verse in haste;</l>
+               <l>Or else the Cur got drunk like snoaring Sow,</l>
+               <l>Lay under Board, and never wa'kt 'till now;</l>
+               <l>But if the noise the yelping Beagles keep</l>
+               <l>Did waken him, his Verse I'm sure's asleep.</l>
+               <l>I'le swear, I thought (when first I looked on</l>
+               <l>His Poem) he had sent me back mine own:</l>
+               <l>'T began alike; alike almost throughout,</l>
+               <l>'Twas only mine was turn'd the inside out:</l>
+               <l>'Tis a damn'd trick the <hi>Tory</hi> Tools have got,</l>
+               <l>To kill an Enemy with his own Shot:</l>
+               <l>Had he not imped me, he'd been to seek</l>
+               <l>For an <hi>Exordium</hi> another week;</l>
+               <l>For of the <hi>Tory</hi> Poets I must say</l>
+               <l>It's a witty Rogue can write a Verse a day.</l>
+               <l>But <hi>Gaffer-Goose-Cap,</hi> who told you such stories,</l>
+               <l>
+                  <hi>His Majesty</hi> sent Bucks to feast the <hi>Tories?</hi>
+               </l>
+               <l>You might as well have said the <hi>King was drest</hi>
+               </l>
+               <l>
+                  <hi>In Royal Robes,</hi> and came to be your guest.</l>
+               <l>But you may speak amiss, amiss may do,</l>
+               <l>It had been <hi>Treason</hi> if I had said so;</l>
+               <l>
+                  <hi>Tories</hi> may murder Fame, may Honour kill,</l>
+               <l>May slander <hi>Kings,</hi> and yet be Loyal still,</l>
+               <l>Their Loyalty consists in doing ill.</l>
+               <pb facs="tcp:182404:2"/>
+               <l>You may 'tis like by these your Verses lewd,</l>
+               <l>Make the mistaken <hi>Tory</hi> multitude</l>
+               <l>Believe I <hi>Treason</hi> spake, and that I swore,</l>
+               <l>And I may safely say, you'l Drink and Whore,</l>
+               <l>But this for truth they all do know before.</l>
+               <l>That <hi>Noblemen</hi> were <hi>Priests,</hi> I ne're said so;</l>
+               <l>But Doctor <hi>Crape-Gown</hi>'s may, for ought I know;</l>
+               <l>'Twas <hi>Scandalum magnat.</hi> if I do in jest</l>
+               <l>But speak one word 'gainst <hi>Stewards</hi> of the Feast;</l>
+               <l>Though <hi>Lords</hi> be high, yet <hi>Prentices</hi> are low,</l>
+               <l>And lowsie <hi>Taylors</hi> still were counted so:</l>
+               <l>You may say what you please, but without doubt</l>
+               <l>I may speak <hi>Treason</hi> gainst the <hi>Ragged-Rout;</hi>
+               </l>
+               <l>And Silly Fops 'cause they've all <hi>Whiggs</hi> abhorr'd,</l>
+               <l>Shall have as good a title as a <hi>Lord;</hi>
+               </l>
+               <l>And prosecute for scandal whom they please:</l>
+               <l>Such Lordly things are lordly <hi>Prentices.</hi>
+               </l>
+               <l>No, silly <hi>Citts!</hi> for ever doom'd to Shops,</l>
+               <l>Keep still your ancient titles, <hi>Fools</hi> and <hi>Fops.</hi>
+               </l>
+               <l>This Sham won't take; I'm Loyal still and true,</l>
+               <l>Although I'm scandaliz'd by traiterous you;</l>
+               <l>Disloyal <hi>Tories!</hi> you the Traytors are;</l>
+               <l>Whilst Loyal <hi>Baxter, Curtis,</hi> Loyal <hi>Care</hi>
+               </l>
+               <l>Bravely maintain their Soveraigns right in truth,</l>
+               <l>Without e're feasting of the snorty Youth,</l>
+               <l>True <hi>Whigs</hi> ne're stoopt to such mean tricks as these,</l>
+               <l>To feast the hungry sniveling Prentices.</l>
+               <l>Illustrious <hi>Charles!</hi> by all that's great and high!</l>
+               <l>(Tho I am branded with Disloyalty)</l>
+               <l>No fawning <hi>Courtier</hi> e're shall so much glose</l>
+               <l>As I'le detest thine and thy Nations Foes;</l>
+               <l>No <hi>Charles the third,</hi> nor budding <hi>Embryo-King</hi>
+               </l>
+               <l>Shall be the Subject for my <hi>Muse</hi> to sing</l>
+               <l>Whilst thou dost live; let <hi>Traiterous Tories</hi> sooth,</l>
+               <l>And raise Sedition in the Factious <hi>Youth;</hi>
+               </l>
+               <l>Long may'st thou live and flourish on thy Throne,</l>
+               <l>While all these <hi>little Kings</hi> shall basely tumble down.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1682.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
